@@ -1,5 +1,5 @@
 nav {
-  margin: 0 10% 0 10%;
+  padding: 0 10% 0 10%;
   background-color: white;
 }
 
@@ -33,9 +33,12 @@ main {
 
 .projects-container {
   background-color: #e5e5e5;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .card {
-  margin: 10%;
+  margin: 10% auto; 
+  border-radius: 24px;
 }
 /*# sourceMappingURL=style.css.map */
