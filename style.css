@@ -25,4 +25,17 @@ main {
 #header-name a {
   color: #505f79;
 }
+
+.languages {
+  background-color: #ebebff;
+  color: #6070ff;
+}
+
+.projects-container {
+  background-color: #e5e5e5;
+}
+
+.card {
+  margin: 10%;
+}
 /*# sourceMappingURL=style.css.map */
