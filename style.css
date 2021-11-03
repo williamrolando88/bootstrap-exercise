@@ -1,0 +1,28 @@
+nav {
+  margin: 0 10% 0 10%;
+  background-color: white;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+}
+
+#header-name {
+  background-image: url("assets/img/Header-bg.svg");
+  background-size: contain;
+  margin-top: 8%;
+  padding: 0 10% 0 10%;
+}
+#header-name div {
+  height: 80vh;
+}
+
+#header-name h5 {
+  color: #7f8cff;
+}
+
+#header-name a {
+  color: #505f79;
+}
+/*# sourceMappingURL=style.css.map */
